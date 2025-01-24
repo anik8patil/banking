@@ -27,7 +27,7 @@ Welcome to the Banking Platform repository, a secure and efficient banking solut
 
 # Live Demo 🌐
 
-Check out the live version of the platform: Banking Platform Demo
+Check out the live version of the platform: https://care-pulse-lemon.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
